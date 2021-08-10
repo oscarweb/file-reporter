@@ -1,6 +1,6 @@
 {
     "name": "oscarweb/file-reporter",
-    "description": "Creates a summary of files in a specific directory.",
+    "description": "It is a simple library to create a report of the existing files in an established directory. It has some filters to identify for example: duplicate files or files with the same name.",
     "type": "library",
     "keywords": ["files","directories", "summary", "json"],
     "license": "MIT",

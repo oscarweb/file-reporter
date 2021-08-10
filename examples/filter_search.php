@@ -13,7 +13,7 @@ $app = new FileReporter(__DIR__.DIRECTORY_SEPARATOR.'docs');
 /**
  * You can create searches
  * @param string $name_key
- * @param string $operatos|$value
+ * @param string $operator|$value
  * @param string|int $value
  * @example $app->filterReport()->seach('ext', '=', 'jpg'); or 
  * @example $app->filterReport()->seach('ext', 'jpg');
