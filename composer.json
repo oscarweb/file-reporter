@@ -1,0 +1,22 @@
+{
+    "name": "oscarweb/file-reporter",
+    "description": "Creates a summary of files in a specific directory.",
+    "type": "library",
+    "keywords": ["files","directories", "summary", "json"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "oscarweb",
+            "email": "php@oscarweb.com.ar"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "FileReporter\\" : "src/"
+        }
+    }    
+}
