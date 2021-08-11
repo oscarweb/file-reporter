@@ -32,6 +32,7 @@ $response = $app->getReport();
 var_dump($response);
 ```
 Output example [here](https://raw.githubusercontent.com/oscarweb/file-reporter/main/examples/cache/report.15ae3f61f9f41738356cee922fe2e655.json "Output Json")
+
 Report JSON Structure: [report.md](https://github.com/oscarweb/file-reporter/tree/main/examples/report.md "Report JSON Structure")
 
 ------------
@@ -72,6 +73,7 @@ $app = new FileReporter();
 $control = $app->getControl();
 ```
 Output example [here](https://raw.githubusercontent.com/oscarweb/file-reporter/main/examples/cache/control.json "Output Json")
+
 Control JSON Structure: [control.md](https://github.com/oscarweb/file-reporter/tree/main/examples/control.md "Report JSON Structure")
 
 ------------
