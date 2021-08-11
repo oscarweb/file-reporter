@@ -1,4 +1,4 @@
-#### Report JSON Structure
+### Report JSON Structure
 
 Output example [here](https://raw.githubusercontent.com/oscarweb/file-reporter/main/examples/cache/report.15ae3f61f9f41738356cee922fe2e655.json "Output Json")
 
