@@ -36,7 +36,7 @@ Output example [here](https://raw.githubusercontent.com/oscarweb/file-reporter/m
 Report JSON Structure: [report.md](https://github.com/oscarweb/file-reporter/tree/main/examples/report.md "Report JSON Structure")
 
 ------------
-#### Cache
+#### &#8212; Cache
 
 To enable cache, with the previous example you must add the directory path where json files will be saved
 
@@ -59,7 +59,7 @@ See example [here](https://github.com/oscarweb/file-reporter/tree/main/examples/
 
 ------------
 
-#### control.json
+#### &#8212; control.json
 
 Every time you make a new report and have cache enabled, part of the information will be saved in a control file.
 You can read the information with the following method.
@@ -78,7 +78,7 @@ Control JSON Structure: [control.md](https://github.com/oscarweb/file-reporter/t
 
 ------------
 
-#### Recursive
+#### &#8212; Recursive
 
 You can create a custom recursive function.
 
@@ -122,7 +122,7 @@ See example [here](https://github.com/oscarweb/file-reporter/tree/main/examples/
 
 ------------
 
-#### Filters
+#### &#8212; Filters
 
 You can filter and create file searches based on cached data.
 It can retrieve repeated files based on the `hash` value.
