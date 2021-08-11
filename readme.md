@@ -8,7 +8,7 @@ It has some filters to identify for example: duplicate files or files with the s
 ```sh
 composer require oscarweb/file-reporter
 ```
-#### Basic use
+#### &#8212; Basic use
 
 ```php
 <?php
