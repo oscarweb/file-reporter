@@ -1,1 +1,83 @@
-{"created":1628620161,"updated":1628620161,"reports":[{"route":"C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs","name":"docs","json":"C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\cache\\report.15ae3f61f9f41738356cee922fe2e655.json","created":1628620160,"updated":1628620160,"count":{"dirs":3,"files":8}},{"route":"C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\pdf","name":"pdf","json":"C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\cache\\report.dbd6b8e66f5d43cb2c342b66a2b7e734.json","created":1628620161,"updated":1628620161,"count":{"dirs":0,"files":3}},{"route":"C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\photos","name":"photos","json":"C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\cache\\report.2d6f7a17b3c8777067f62d1642fd1977.json","created":1628620161,"updated":1628620161,"count":{"dirs":2,"files":3}},{"route":"C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\photos\\a","name":"a","json":"C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\cache\\report.cd60bc80d7e08fa042c09f1fd3356514.json","created":1628620161,"updated":1628620161,"count":{"dirs":0,"files":3}},{"route":"C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\photos\\b","name":"b","json":"C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\cache\\report.17e2d41b84e8921a82943fa3979d1955.json","created":1628620161,"updated":1628620161,"count":{"dirs":1,"files":1}},{"route":"C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\photos\\b\\c","name":"c","json":"C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\cache\\report.74325f824e9cd38b8efb7d8249543634.json","created":1628620161,"updated":1628620161,"count":{"dirs":0,"files":3}},{"route":"C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\read more","name":"read more","json":"C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\cache\\report.c681a62310c173db3a72d646d57cc81b.json","created":1628620161,"updated":1628620161,"count":{"dirs":0,"files":2}}]}
+{
+    "created": 1628689607,
+    "updated": 1628689607,
+    "reports": [
+        {
+            "route": "C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs",
+            "name": "docs",
+            "json": "C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\cache\\report.15ae3f61f9f41738356cee922fe2e655.json",
+            "created": 1628689606,
+            "updated": 1628689606,
+            "count": {
+                "dirs": 3,
+                "files": 8
+            }
+        },
+        {
+            "route": "C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\pdf",
+            "name": "pdf",
+            "json": "C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\cache\\report.dbd6b8e66f5d43cb2c342b66a2b7e734.json",
+            "created": 1628689607,
+            "updated": 1628689607,
+            "count": {
+                "dirs": 0,
+                "files": 3
+            }
+        },
+        {
+            "route": "C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\photos",
+            "name": "photos",
+            "json": "C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\cache\\report.2d6f7a17b3c8777067f62d1642fd1977.json",
+            "created": 1628689607,
+            "updated": 1628689607,
+            "count": {
+                "dirs": 2,
+                "files": 3
+            }
+        },
+        {
+            "route": "C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\photos\\a",
+            "name": "a",
+            "json": "C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\cache\\report.cd60bc80d7e08fa042c09f1fd3356514.json",
+            "created": 1628689607,
+            "updated": 1628689607,
+            "count": {
+                "dirs": 0,
+                "files": 3
+            }
+        },
+        {
+            "route": "C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\photos\\b",
+            "name": "b",
+            "json": "C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\cache\\report.17e2d41b84e8921a82943fa3979d1955.json",
+            "created": 1628689607,
+            "updated": 1628689607,
+            "count": {
+                "dirs": 1,
+                "files": 1
+            }
+        },
+        {
+            "route": "C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\photos\\b\\c",
+            "name": "c",
+            "json": "C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\cache\\report.74325f824e9cd38b8efb7d8249543634.json",
+            "created": 1628689607,
+            "updated": 1628689607,
+            "count": {
+                "dirs": 0,
+                "files": 3
+            }
+        },
+        {
+            "route": "C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\read more",
+            "name": "read more",
+            "json": "C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\cache\\report.c681a62310c173db3a72d646d57cc81b.json",
+            "created": 1628689607,
+            "updated": 1628689607,
+            "count": {
+                "dirs": 0,
+                "files": 2
+            }
+        }
+    ]
+}

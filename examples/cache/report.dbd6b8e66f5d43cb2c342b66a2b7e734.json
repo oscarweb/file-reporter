@@ -1,1 +1,57 @@
-{"route":"C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\pdf","name":"pdf","created":1628620161,"updated":1628620161,"count":{"dirs":0,"files":3},"content":[{"type":"file","is":{"dir":false,"file":true},"data":{"mime":"image\/jpeg","ext":"jpg","name":"ave-turdido-en-arbol_1920x1080_2.jpg","mtime":1628516063,"route":"C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\pdf\\ave-turdido-en-arbol_1920x1080_2.jpg","hash":"7dcfdd4c2947e6c61e299b24bf5fdfe0e09a8ccd"}},{"type":"file","is":{"dir":false,"file":true},"data":{"mime":"application\/pdf","ext":"pdf","name":"lorem_ipsum_01.pdf","mtime":1627929961,"route":"C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\pdf\\lorem_ipsum_01.pdf","hash":"dab5514bdcd79c369955118ea026f7d91776473c"}},{"type":"file","is":{"dir":false,"file":true},"data":{"mime":"application\/pdf","ext":"pdf","name":"lorem_ipsum_02.pdf","mtime":1627930004,"route":"C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\pdf\\lorem_ipsum_02.pdf","hash":"7a182863b986c4130774f2fe42171683593981ff"}}]}
+{
+    "route": "C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\pdf",
+    "name": "pdf",
+    "created": 1628689607,
+    "updated": 1628689607,
+    "count": {
+        "dirs": 0,
+        "files": 3
+    },
+    "content": [
+        {
+            "type": "file",
+            "is": {
+                "dir": false,
+                "file": true
+            },
+            "data": {
+                "mime": "image\/jpeg",
+                "ext": "jpg",
+                "name": "ave-turdido-en-arbol_1920x1080_2.jpg",
+                "mtime": 1628516063,
+                "route": "C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\pdf\\ave-turdido-en-arbol_1920x1080_2.jpg",
+                "hash": "7dcfdd4c2947e6c61e299b24bf5fdfe0e09a8ccd"
+            }
+        },
+        {
+            "type": "file",
+            "is": {
+                "dir": false,
+                "file": true
+            },
+            "data": {
+                "mime": "application\/pdf",
+                "ext": "pdf",
+                "name": "lorem_ipsum_01.pdf",
+                "mtime": 1627929961,
+                "route": "C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\pdf\\lorem_ipsum_01.pdf",
+                "hash": "dab5514bdcd79c369955118ea026f7d91776473c"
+            }
+        },
+        {
+            "type": "file",
+            "is": {
+                "dir": false,
+                "file": true
+            },
+            "data": {
+                "mime": "application\/pdf",
+                "ext": "pdf",
+                "name": "lorem_ipsum_02.pdf",
+                "mtime": 1627930004,
+                "route": "C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\pdf\\lorem_ipsum_02.pdf",
+                "hash": "7a182863b986c4130774f2fe42171683593981ff"
+            }
+        }
+    ]
+}

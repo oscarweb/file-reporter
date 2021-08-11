@@ -47,6 +47,8 @@ class FileReporter{
 	 */
 	protected $files = [];
 
+	protected $json_pretty_print = false;
+
 	/**
 	 * FileReporter Constructor
 	 * @param string $dir
@@ -530,10 +532,18 @@ class FileReporter{
 	 * @throws FileReporterException if not write file
 	 */
 	protected function saveFileJson($route, $content){
-		if(file_put_contents($route, json_encode($content)) === false){
+		$fpc = ($this->json_pretty_print)? 
+						file_put_contents($route, json_encode($content, JSON_PRETTY_PRINT)) : 
+						file_put_contents($route, json_encode($content));
+
+		if( $fpc === false){
 			return $this->getError('The file could not be written ~ '.$route);
 		}
 		return true;
+	}
+
+	public function setJsonPrettyPrint(){
+		$this->json_pretty_print = true;
 	}
 
 	/**

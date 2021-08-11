@@ -17,6 +17,11 @@ $app = new FileReporter(__DIR__.DIRECTORY_SEPARATOR.'docs');
 $app->setCacheDir(__DIR__.DIRECTORY_SEPARATOR.'cache');
 
 /**
+ * Adjust the output of the json file: JSON_PRETTY_PRINT
+ */
+$app->setJsonPrettyPrint();
+
+/**
  * Your custom function
  */
 function recursive($route, $app){

@@ -1,1 +1,87 @@
-{"route":"C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\photos","name":"photos","created":1628620161,"updated":1628620161,"count":{"dirs":2,"files":3},"content":[{"type":"dir","is":{"dir":true,"file":false},"data":{"mime":"directory","ext":"","name":"a","mtime":1628516140,"route":"C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\photos\\a","hash":null}},{"type":"dir","is":{"dir":true,"file":false},"data":{"mime":"directory","ext":"","name":"b","mtime":1628516249,"route":"C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\photos\\b","hash":null}},{"type":"file","is":{"dir":false,"file":true},"data":{"mime":"image\/jpeg","ext":"jpg","name":"perro-en-un-jardin_1920x1080.jpg","mtime":1628516103,"route":"C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\photos\\perro-en-un-jardin_1920x1080.jpg","hash":"f79d8f1613a39e8c8ee7ad66612f7fb7cd85fe9e"}},{"type":"file","is":{"dir":false,"file":true},"data":{"mime":"image\/jpeg","ext":"jpg","name":"rio-con-piedras-en-el-bosque_1920x1080_5868.jpg","mtime":1628516218,"route":"C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\photos\\rio-con-piedras-en-el-bosque_1920x1080_5868.jpg","hash":"3b34c8f9ff33ea22bc23a3fcf25bd01876fe612a"}},{"type":"file","is":{"dir":false,"file":true},"data":{"mime":"text\/plain","ext":"txt","name":"text.txt","mtime":1627930203,"route":"C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\photos\\text.txt","hash":"1f972cc35212c552673c16a38cfb17dcac0c9a6a"}}]}
+{
+    "route": "C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\photos",
+    "name": "photos",
+    "created": 1628689607,
+    "updated": 1628689607,
+    "count": {
+        "dirs": 2,
+        "files": 3
+    },
+    "content": [
+        {
+            "type": "dir",
+            "is": {
+                "dir": true,
+                "file": false
+            },
+            "data": {
+                "mime": "directory",
+                "ext": "",
+                "name": "a",
+                "mtime": 1628516140,
+                "route": "C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\photos\\a",
+                "hash": null
+            }
+        },
+        {
+            "type": "dir",
+            "is": {
+                "dir": true,
+                "file": false
+            },
+            "data": {
+                "mime": "directory",
+                "ext": "",
+                "name": "b",
+                "mtime": 1628516249,
+                "route": "C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\photos\\b",
+                "hash": null
+            }
+        },
+        {
+            "type": "file",
+            "is": {
+                "dir": false,
+                "file": true
+            },
+            "data": {
+                "mime": "image\/jpeg",
+                "ext": "jpg",
+                "name": "perro-en-un-jardin_1920x1080.jpg",
+                "mtime": 1628516103,
+                "route": "C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\photos\\perro-en-un-jardin_1920x1080.jpg",
+                "hash": "f79d8f1613a39e8c8ee7ad66612f7fb7cd85fe9e"
+            }
+        },
+        {
+            "type": "file",
+            "is": {
+                "dir": false,
+                "file": true
+            },
+            "data": {
+                "mime": "image\/jpeg",
+                "ext": "jpg",
+                "name": "rio-con-piedras-en-el-bosque_1920x1080_5868.jpg",
+                "mtime": 1628516218,
+                "route": "C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\photos\\rio-con-piedras-en-el-bosque_1920x1080_5868.jpg",
+                "hash": "3b34c8f9ff33ea22bc23a3fcf25bd01876fe612a"
+            }
+        },
+        {
+            "type": "file",
+            "is": {
+                "dir": false,
+                "file": true
+            },
+            "data": {
+                "mime": "text\/plain",
+                "ext": "txt",
+                "name": "text.txt",
+                "mtime": 1627930203,
+                "route": "C:\\xampp\\htdocs\\github\\oscarweb\\file-reporter\\examples\\docs\\photos\\text.txt",
+                "hash": "1f972cc35212c552673c16a38cfb17dcac0c9a6a"
+            }
+        }
+    ]
+}
