@@ -21,8 +21,4 @@ $app->setCacheDir(__DIR__.DIRECTORY_SEPARATOR.'cache');
  */
 $response = $app->updateReport();
 
-/**
- * Total files in the sent path
- * @return int
- */
 var_dump($response);

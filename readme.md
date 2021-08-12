@@ -142,7 +142,7 @@ $app->setCacheDir(__DIR__.DIRECTORY_SEPARATOR.'cache');
 $duplicate_files = $app->filterCache()->repeatsByHash();
 
 ```
-See example [here](https://github.com/oscarweb/file-reporter/tree/main/examples/filter_search_with_cache.php "Repeats Files")
+See example [here](https://github.com/oscarweb/file-reporter/tree/main/examples/filter_repeats_with_cache.php "Repeats Files")
 
 ------------
 
