@@ -15,8 +15,8 @@ $app = new FileReporter(__DIR__.DIRECTORY_SEPARATOR.'docs');
  * @param string $name_key
  * @param string $operator|$value
  * @param string|int $value
- * @example $app->filterReport()->seach('ext', '=', 'jpg'); or 
- * @example $app->filterReport()->seach('ext', 'jpg');
+ * @example $app->filterReport()->search('ext', '=', 'jpg'); or 
+ * @example $app->filterReport()->search('ext', 'jpg');
  * @return object - default
  * -
  * Operators: '=', 'like', '<', '>'
